@@ -1,2 +1,2 @@
 # Vote4Change
-The Online Evoting Application
+An Online Evoting Application
